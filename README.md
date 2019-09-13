@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Compute
-- platforms: java
+description: "Azure Compute sample for managing virtual machines. Create a virtual machine with managed OS Disk based on Windows OS image"
+urlFragment: compute-java-manage-vm-async
 ---
 
 # Getting Started with Compute - Manage Virtual Machine Async - in Java #
